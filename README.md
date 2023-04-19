@@ -2,9 +2,7 @@
 
 This is a simple Hello World program. I made this program to demonstrate and test the functionality of Python and GitHub together in Visual Studio Code.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World Python Demonstration Video](https://youtu.be/k2lTlrSIRzc)
 
 # Development Environment
 
